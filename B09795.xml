@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal for the better education of infants.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09795</idno><idno type="EEBO-CITATION">80923410</idno>
+  <idno type="VID">191966</idno>
+  <idno type="EEBO-PROQUEST">2240864154</idno>
+  
+            <idno type="OCLC"> 80923410</idno>
+            <idno type="STC">Wing P3698</idno>
+            <idno type="STC">ESTC R182163</idno>
+            <idno type="OCLC">80923410</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191966)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2896:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal for the better education of infants.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (Middlesex)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Charity-schools --  England --  Middlesex --  Early works to 1800.</term>
+               <term type="topical_term">Charity-schools --  England --  Westminster --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:191966:1"/>
+            <head>A PROPOSAL For the Better Education of Infants.</head>
+            <p>ALtho many good Provisions have been heretofore made by the Cha<g ref="char:EOLhyphen"/>rity of well-disposed Persons, for the Maintenance and Education of Youth: Yet no Convenience or Education hath yet been thought on, or taken care of, for poor Infants, who can least provide for themselves, or be provided for.</p>
+            <p>For want whereof, many great Evils and Inconveniences are daily found, by the wilful and careless causing, or suffering many Infants to perish, or to Suck in wicked and debauched Principles, to the ruin, as 'tis to be fear'd, often of their Souls, as well as Bodies.</p>
+            <p>Now for the remedying thereof, a General Nursery, or Infantory, is recom<g ref="char:EOLhyphen"/>mended by His Majesties Justices of the Peace, at the Quarter Sessions for <hi>Mid<g ref="char:EOLhyphen"/>dlesex</hi> and <hi>Westminster,</hi> to the Inhabitants therein, as by their Orders at their several Sessions may appear.</p>
+            <p>And for that purpose, the Justices of the Peace of the County of <hi>Middlesex.</hi> have already disposed of, and appropriated a great publick Bulding, at <hi>Cler<g ref="char:EOLhyphen"/>kenwell</hi> (whose good Examples, 'tis hop'd, will soon be followed by others) and such Orders and Provisions are there already made, that Infants shall be there Received and Provided for, with all manner of necessaries, and be taught to Read and Write, and be bred up in true Religion and Virtue.</p>
+            <p>And 'tis supposed, that when Persons are satisfied of the great Conveniences and Advantages of this Infantory or Nursery, many Charitable and Religious Persons will be Liberal Benefactors thereunto, whereby the Charge of the Main<g ref="char:EOLhyphen"/>tenance and Educatiion of the Poor may be at least eas'd, if not wholly taken off.</p>
+            <p>But the Children first brought in, must first be provided for, out of such Charities.</p>
+            <p>The great Conveniences and Advantages by this Nursery will be,</p>
+            <list>
+               <item>1. To the Fatherless and Motherless.</item>
+               <item>2. To the Poor; the Trouble and Charge of Breeding up such Infants, ta<g ref="char:EOLhyphen"/>king them much off from earning their Liverlyhoods.</item>
+               <item>3. To all such whose Employments require, or cause their Absence from their Dwellings, as Seafaring men, users of Fairs and Markets.</item>
+               <item>4. And to all such as would not otherwise keep Houses, unless it were for the Looking after, and Breeding up their Children.</item>
+            </list>
+            <p>It is also believed this Provision may prevent the great Trouble and Charge to all Persons, by Children left and laid in the several Parishes.</p>
+            <p>Or that at least it may ease the Parishes, and their Officers, in Providing for, and Breeding up of their Parish Children.</p>
+            <p>And by this Education, we may be assured there will be better Subjects, better Masters, and better Apprentices and Servants, for all Persons that shall need them.</p>
+            <p>And as this good Work takes, many other Proposals shall be made for the taking off, and wholly providing for Infants, for small sums of Money, which shall be secured by certain and sufficient Funds.</p>
+            <p>The Rates propos'd for such Maintenance and Education are,</p>
+            <p>Twenty Shillings Entrance, which is for new Cloaths and Bedding.</p>
+            <p>And 3 <hi>s.</hi> a Week, for Meat, Drink, Cloaths, and all other things for the future.</p>
+            <div type="part">
+               <p>
+                  <hi>The Days to receive them, are</hi> Thursdays <hi>weekly, from Nine till Noon, at the Nursery or Infantory at</hi> Clerkenwell, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>But the place and accommodation being so much approved of by all that see it, and the confluence of people thither on those days being great, for the greater ease and dispatch to the business, It is desired that all persons approving of the Undertaking, will come and bring in their children on the</hi> Mondays <hi>before, and leave the Name and Age of the Child with the Officer, who is appointed to attend there on those days to that purpose.</hi>
+               </p>
+               <p>Note, <hi>That you may take the Child away at any time, when you have an opportunity of a better Provision for it, and the new Cloaths with it.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
